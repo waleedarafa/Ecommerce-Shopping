@@ -16,7 +16,7 @@ It makes it easy to use data access technologies, relational and non-relational 
 REST (REpresentational State Transfer) is an architectural style, and an approach to communications that is often used in the development of Web services. Modern-Ecommerce core backend support fully REST API to allow integarte with any Frontend platform
 
 ### Mutiple vendor/store support
-Modern-Ecommerce support mutiple Store/vendor, ready to run enterprise e-commerce. Check out more detail with database design https://github.com/JohnnyLe/Modern-Ecommerce/issues/1
+Modern-Ecommerce support mutiple Store/vendor, ready to run enterprise e-commerce.
 
 ### Mutiple modern themes frontend support
 Modern-Ecommerce support mutiple theme for frontend built with Bootstrap/AngularJS, modern responsive. Easy customize
